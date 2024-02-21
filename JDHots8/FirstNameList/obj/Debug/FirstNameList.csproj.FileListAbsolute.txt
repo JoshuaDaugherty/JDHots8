@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\bin\Debug\FirstNameList.exe.config
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\bin\Debug\FirstNameList.exe
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\bin\Debug\FirstNameList.pdb
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.frmName.resources
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.exe
+C:\Users\janic\Downloads\JDHots8\JDHots8\FirstNameList\obj\Debug\FirstNameList.pdb

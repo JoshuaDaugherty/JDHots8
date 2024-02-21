@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.frmAddressBook.resources
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\janic\Downloads\JDHots8\JDHots8\AddressBook\obj\Debug\AddressBook.pdb
